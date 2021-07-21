@@ -1,1 +1,2 @@
 Hi File3.txt
+Conflict line added
