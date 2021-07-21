@@ -1,3 +1,4 @@
 Hi File3.txt
 Conflict line added
 Next conflict line
+line added from newbranch
